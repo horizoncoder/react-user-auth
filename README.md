@@ -1,7 +1,22 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## node JS
+The application was developed on node v20.11.0
+```bash
+$ nvm install 20.11.0
+$ nvm use 20.11.0
+```
+## Installation
 
+```bash
+$ npm install
+```
+## Docker installation
+
+```bash
+$ docker-compose up
+```
 ## Available Scripts
 
 In the project directory, you can run:
